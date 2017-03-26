@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WhoFirst</string>
+    <string name="action_reset">Reset</string>
+    <string name="welcome_title">Welcome to WhoFirst</string>
+    <string name="intro_add_people_text">Add new people</string>
+    <string name="share_text">Shake me!</string>
+</resources>
